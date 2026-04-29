@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Emily 👋
+# Hi, I'm Emily Chan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F3A8A&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+%40+McMaster)](https://git.io/typing-svg)
 
