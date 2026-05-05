@@ -19,8 +19,8 @@ Motivated to apply my skills to build innovative technology with meaningful, rea
 
 > ### 🛠️ Automation Intern  
 > **Indusflow Systems** (Summer 2026)  
-> - Writing PowerShell scripts to automate system and infrastructure tasks
-> - Exploring RPA tools for workflow automation
+> - Engineering automation solutions by developing scripts and integrating APIs to optimize cross-platform workflows
+> - Building RPA processes to automate repetitive tasks and improve efficiency
 
 > ### ⚡ Embedded Power Architecture  
 > **McMaster Exoskeleton** ([MacExo](https://www.macexo.com/))  
