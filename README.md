@@ -90,7 +90,7 @@ Outside the lab, I'm a competitive boxer and kickboxer who has represented Canad
 
 *Let's connect!* &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emilylinchan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emilylinchan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=emilylinchan@gmail.com)
  
 <sub>⛵ When I'm not training or building, you'll find me out sailing or somewhere up a trail. 🥾</sub>
  
