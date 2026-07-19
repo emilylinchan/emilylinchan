@@ -2,7 +2,7 @@
 
 # Hi, I'm Emily Chan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EC4899&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+%40+McMaster;Embedded+Systems+%26+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EC4899&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+%40+McMaster;Embedded+Systems+%26+Digital+Logic+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,7 +94,5 @@ Outside the lab, I'm a competitive boxer and kickboxer who has represented Canad
 *Let's connect!* &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emilylinchan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=emilylinchan@gmail.com)
- 
-<sub>⛵ When I'm not training or building, you'll find me out sailing or somewhere up a trail. 🥾</sub>
  
 </div>
