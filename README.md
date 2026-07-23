@@ -22,42 +22,46 @@ I'm a Computer Engineering student at McMaster University passionate about embed
 ---
 
 ## Tech Stack
- 
+
 **Languages**
- 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-006600?style=for-the-badge&logoColor=white)
- 
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-C1272D?style=for-the-badge&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
 **Embedded & Hardware**
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logoColor=white)
 ![Intel FPGA](https://img.shields.io/badge/Intel%20FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
- 
-**EDA & Design Tools**
- 
-![PSpice](https://img.shields.io/badge/PSpice-EE3124?style=for-the-badge&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-A2AD00?style=for-the-badge&logo=ltspice&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logoColor=white)
- 
-**Automation & Data**
 
+**EDA & Simulation**
+
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-00A9CE?style=for-the-badge&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-A2AD00?style=for-the-badge&logo=ltspice&logoColor=white)
+![PSpice](https://img.shields.io/badge/PSpice-EE3124?style=for-the-badge&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-F5A623?style=for-the-badge&logo=autodesk&logoColor=white)
+
+**Software & Tools**
+
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
