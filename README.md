@@ -46,7 +46,7 @@ I'm a Computer Engineering student at McMaster University passionate about embed
 
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-00A9CE?style=for-the-badge&logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-00A9CE?style=for-the-badge&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-A2AD00?style=for-the-badge&logo=ltspice&logoColor=white)
 ![PSpice](https://img.shields.io/badge/PSpice-EE3124?style=for-the-badge&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-F5A623?style=for-the-badge&logo=autodesk&logoColor=white)
