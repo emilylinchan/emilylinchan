@@ -17,8 +17,8 @@ I'm a Computer Engineering student at McMaster University passionate about embed
 ## Currently Building
 
 - 🦀 **Hermit Crab** — A quadruped robot built from the ground up with a custom chassis, PCB, ESP32 firmware, and a multitasking FreeRTOS control system.
-- 📡 **UART IP Core** — A parameterizable Verilog UART IP core with transmitter, receiver, baud-rate generation, and simulation-based verification.
-
+- 📡 **Logic Analyzer** — A Verilog-based digital logic analyzer for the DE10-Lite FPGA featuring signal sampling, trigger detection, on-chip memory buffering, UART communication, and a Python waveform viewer.
+  
 ---
 
 ## Tech Stack
